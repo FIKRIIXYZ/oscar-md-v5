@@ -1,11 +1,11 @@
-global.you = ['6281251549899'] 
+global.you = ['6282123019956'] 
 //Developer Bot
 global.gc = 'https://chat.whatsapp.com/I5Kz3Abawc5DqyBSDoYvKB'
-global.rowner = ['6281251549899'],['6281348106274'] // Real Owner Bot
-global.owner = ['6281251549899'],['6281348106274'] // Owner Bot
-global.police = ['6281251549899'],['6281348106274'] // Police Bot
-global.mods = ['6281251549899'],['6281348106274']  // Want some help?
-global.prems = ['6281251549899'],['6281348106274'] // Premium user has unlimited limit
+global.rowner = ['6282123019956'],['6282123019956'] // Real Owner Bot
+global.owner = ['6282123019956'],['6282123019956'] // Owner Bot
+global.police = ['6282123019956'],['6282123019956'] // Police Bot
+global.mods = ['6282123019956'],['6282123019956']  // Want some help?
+global.prems = ['6282123019956'],['6282123019956'] // Premium user has unlimited limit
 global.fotonya1 = 'https://telegra.ph/file/00ca947f49354f6c108da.jpg' //ini kalo mau di ganti silahkan ganti aja
 global.fotonya2 = 'https://telegra.ph/file/00ca947f49354f6c108da.jpg' //gw lupa nih foto apa aja:v
 global.fotonya3 = 'https://telegra.ph/file/00ca947f49354f6c108da.jpg' //ini juga ganti
@@ -15,7 +15,7 @@ global.fotonya6 = 'https://telegra.ph/file/00ca947f49354f6c108da.jpg' //ini gant
 global.fotonya7 = 'https://telegra.ph/file/00ca947f49354f6c108da.jpg'
 global.instagram = 'https://instagram.com/danibotz_official'
 
-global.helper = ['6281251549899'],['6281348106274']
+global.helper = ['6282123019956'],['6282123019956']
 global.APIs = { // API Prefix
   // name: 'https://website'
   amel: 'https://melcanz.com',
